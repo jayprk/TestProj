@@ -8,7 +8,8 @@ public class GitTest {
 		WishMsgGenerator msg = new WishMsgGenerator();
 		msg.wishMsg("jay");	
 		
-		msg.sum(10,20);		
+		msg.sum(10,20);
+		
 		//hello124
 	}
 	
